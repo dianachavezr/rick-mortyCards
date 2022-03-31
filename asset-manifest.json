@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rick-mortyCards/static/css/main.5f2d32d3.css",
+    "main.js": "/rick-mortyCards/static/js/main.d2471762.js",
+    "static/js/787.22b94f70.chunk.js": "/rick-mortyCards/static/js/787.22b94f70.chunk.js",
+    "index.html": "/rick-mortyCards/index.html",
+    "main.5f2d32d3.css.map": "/rick-mortyCards/static/css/main.5f2d32d3.css.map",
+    "main.d2471762.js.map": "/rick-mortyCards/static/js/main.d2471762.js.map",
+    "787.22b94f70.chunk.js.map": "/rick-mortyCards/static/js/787.22b94f70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f2d32d3.css",
+    "static/js/main.d2471762.js"
+  ]
+}
